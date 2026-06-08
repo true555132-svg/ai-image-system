@@ -1,0 +1,24 @@
+{
+  "brand_id": "luair",
+  "brand_name": "LuAir 濾呼吸",
+  "brand_name_en": "LuAir",
+  "colors": {
+    "primary": "pure white",
+    "secondary": "soft sky blue",
+    "accent": "light sage green"
+  },
+  "style": "clean, professional, health-focused",
+  "space_style": "minimal clean home interior, medical-grade cleanliness",
+  "materials": ["HEPA filter media", "activated carbon", "polypropylene frame", "white plastic housing"],
+  "atmosphere": "clean, trustworthy, breathable, safe",
+  "avoid": [
+    "cluttered background",
+    "warm yellow tones",
+    "luxury or premium hotel style",
+    "cartoon or illustration style",
+    "text overlays",
+    "human hands unless specified"
+  ],
+  "target_market": "Taiwan residential, families with children or pets, allergy sufferers",
+  "platform_note": "Shopee main image, SHOPLINE product page, SEO blog"
+}

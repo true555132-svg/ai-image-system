@@ -1,0 +1,30 @@
+{
+  "style_id": "luair-filter",
+  "product_types": {
+    "hepa_filter": {
+      "name": "HEPA 濾網",
+      "name_en": "HEPA Air Filter",
+      "key_features": ["cylindrical HEPA filter", "white outer frame", "pleated white filter media inside", "light gray pre-filter layer at bottom", "exact product colors must be preserved — do NOT reinterpret or change colors", "no artistic color grading"],
+      "color_accuracy": "CRITICAL: reproduce exact product colors accurately. White frame, white pleated HEPA media, light gray bottom pre-filter layer. Do not add blue, green, or any color not present on the actual product.",
+      "shoot_angle": ["45-degree front angle", "straight-on front", "slight top-down angle"],
+      "props_allowed": ["clean white surface", "minimal soft shadow beneath product only"],
+      "props_avoid": ["dust particles visible", "dark background", "other products nearby", "color tinting", "color enhancement"]
+    },
+    "carbon_filter": {
+      "name": "活性碳濾網",
+      "name_en": "Activated Carbon Filter",
+      "key_features": ["dark charcoal texture", "contrast with white frame", "grid or honeycomb structure"],
+      "shoot_angle": ["45-degree front angle", "close-up texture shot"],
+      "props_allowed": ["white surface", "soft shadow"],
+      "props_avoid": ["busy background", "other objects"]
+    },
+    "combo_set": {
+      "name": "濾網組合包",
+      "name_en": "Filter Replacement Set",
+      "key_features": ["multiple filter layers arranged neatly", "clean packaging visual", "layered stack composition"],
+      "shoot_angle": ["top-down flat lay", "slight perspective angle"],
+      "props_allowed": ["white surface", "clean minimal background", "brand card (optional)"],
+      "props_avoid": ["messy arrangement", "uneven lighting"]
+    }
+  }
+}

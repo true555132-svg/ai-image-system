@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+outputs/images/
+outputs/logs/
+outputs/prompts/
+references/temp/
